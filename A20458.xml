@@ -217,7 +217,9 @@ worlde, but also to imprinte sundry other volumes of my fa<g ref="char:EOLhyphen
                   <p>THe portion of the Circumference from that corde compre<g ref="char:EOLhyphen"/>hended, is named an Aroke.</p>
                   <p>A Touch line is that toucheth a circle in a Pointe.</p>
                   <figure/>
-                  <figure/>
+                  <p>
+                     <figure/>
+EMong Right lined figures, suche as haue onely thrée si<g ref="char:EOLhyphen"/>des are Triangles, whereof there be sundrie sortes bearing seuerall names, according to the diuersitie of their sides and Angles.</p>
                   <p>
                      <pb facs="tcp:11955:9"/>IF the Triangles thrée sides be euery of them of like length, it is called an Equilater Triangle.</p>
                   <p>
@@ -441,7 +443,10 @@ the shadow once and the eleuenth parte of that shadowe: or in fewe wordes, multi
                            <hi>Heere yee shall note that in mensuration of heightes with this in<g ref="char:EOLhyphen"/>strument, it shall be requisite first to finde what parte of the Altitude is leuell with your eye, which you may thus doo:</hi>
                         </p>
                         <p>CAuse the plummet and thread to fall vpon the side line of your qua<g ref="char:EOLhyphen"/>drant where the degrées beginne, and then searching thorough the sightes, that part which you can espie of youre <hi>Altitude,</hi> (the plummet hanging vppon the foresaid laterall line) is leuell with youre eye, the heigth whereof from the base compared with the <hi>altitude</hi> of youre eye, discouereth the vnequalitie or difference of the ground: that is to saye, how much higher or lower the base of the thing to be measured, is than the ground at your station which difference as ye shall sée cause added or detracted from your heights found as is before declared, yeldeth most exactely the true <hi>altitude,</hi> and thus shall you be assured neuer to erre, how vneuen or vnleuell so euer the ground bée.</p>
-                        <figure/>
+                        <p>
+                           <pb facs="tcp:11955:18"/>
+                           <figure/>
+                        </p>
                      </div>
                   </div>
                   <div n="13" type="chapter">
@@ -488,7 +493,10 @@ the greater and lesser triangles: though demonstration beare it, I allow not of 
                      <head>The .16. Chapter. By a Glasse heighthes may be pleasantly practized and founde on this vvise.</head>
                      <p>
                         <seg rend="decorInit">C</seg>Ast a glasse on the grounde, so it may lye equall, yea euen in heigth with the base of the thing to be measured, your eie on the glasse fixed, go from it vntil ye sée no more than the very top of that thing of which ye require the heigth. Then let a Plummet with a line come from your eie to the grounde, marke the fall of that Plummet, loke what proportion the distance beareth (from the saide Plummet to the Centre of the glasse) compared to the length of the corde, the same shall the space betwéene the glasse and the base of the heigth, haue to the altitude desired.</p>
-                     <figure/>
+                     <p>
+                        <pb facs="tcp:11955:21"/>
+                        <figure/>
+                     </p>
                      <p>THe precept of proportion may be as well héere vsed as afore, and so to attaine heightes. Beholde the figure, as the distance <hi>DC</hi> from the fall of the Plummet to the centre of the glasse, is equall with the line <hi>ED,</hi> falling from the sight <hi>E</hi> so the length <hi>CE</hi> from the glasse to the base of the tower, swarueth not from the desired Altitude <hi>AB.</hi>
                      </p>
                   </div>
@@ -573,7 +581,13 @@ of the angle, extendeth to my fifte staffe G, situate exactlye betweene E the th
                         <figure>
                            <head>A proofe or demonstration Geometrical of the former conclusion.</head>
                         </figure>
-                        <figure/>
+                        <p>TO auoyde tediouse recitalles of the premisses, I suppose the figure in all re<g ref="char:EOLhyphen"/>spects made as it was before: the proposition that I will here demonstrate shall be, that DE retayneth the same proportion to EC, that GF doth to AB,
+<pb facs="tcp:11955:26"/>
+whiche admitted or assumed as a Lemma, the rule before giuen of multiplying FG in EC, and diuiding by DE, to produce AB may two wayes be approued geometrically by the 16 proposition of the 6 boke of Euclides elements, and arith<g ref="char:EOLhyphen"/>metically by the 19 proposition of the 7 boke of the same elements, wherin I mind
+<figure/>
+not to vse mo words, considering it is nothing els but the calculation by the rule of three, whose demonstration hath been handled by diuerse, and well knowen to any, meanely in these matters trauayled. But how these DE and EC become to be proportionall with GF and AB hath not ben by any hitherto proued, this Lemma therefore or proposition I minde to demonstrate. Firste it is apparante that DF is equidistante to AC by the 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> propositon of the firste of Euclides elements, the words are these.</p>
                         <p>
                            <gap reason="foreign">
                               <desc>〈 in non-Latin alphabet 〉</desc>
@@ -715,13 +729,19 @@ in the quotient 3600, your proportionall partes founde by the rule of reduction,
                      <p>
                         <seg rend="decorInit">F</seg>Irst, if the hill or turret be stéepe vp, so that the foote be visible lying perpe<g ref="char:cmbAbbrStroke">̄</g>dicularly vnder the top, ye shal first measure the di<g ref="char:EOLhyphen"/>stance of the base, either by this instrume<g ref="char:cmbAbbrStroke">̄</g>t or otherwise as was before declared: and also the heigth of the top or summitie of y<hi rend="sup">e</hi> same hill or fower: which done, ye shall square aswel the longitude as the altitude, ioyning togither the productes, the roote quadrat of the whole nu<g ref="char:cmbAbbrStroke">̄</g>
                         <g ref="char:EOLhyphen"/>ber, is the desired distance or line <hi>Hypothenusal:</hi> you may in this manner (approching nighe any town of warre) tell the iuste length of the scaling laders that shall reache from the brym of the ditch or edge of the counter<g ref="char:EOLhyphen"/>scarfe, to the top of the wal or curtein, by adding the square of y<hi rend="sup">e</hi> ditches la<g ref="char:EOLhyphen"/>titude, to the heigth of the curteyne aboue the leuel of y<hi rend="sup">e</hi> outwarde banck, for the roote of the producte will be the true length of the scaling ladder.</p>
-                     <figure/>
+                     <p>
+                        <pb facs="tcp:11955:31"/>
+                        <figure/>
+                     </p>
                      <p>
                         <hi>A the toppe of the hill, B the foote, C my station or the place of mine eie, A B 60 pace, CB 200 pace, the square of 60 is 3600, the square of 200 is 40000, these two ioyned together make 43600, whose Quadrate roote being about 208 pace 3 foote is the Hypothenusall line AC. Likewise AB the breadthe of the Ditche being 30 foote, and BC the altitude of the curtaine 20 foote, there two squares added together bring forthe 1300, whose Quadrate roote being 36 foote very nighe, is the length of the scaling ladder AC. But if the base of your moun<g ref="char:EOLhyphen"/>taine be not visible, then ereare vp your Geometricall square, the index placed (as was before declared) towarde the toppe of the Hill A, and remouing the Index (your square standing immoueable) espie your second station Orthogonally at D where ye must place the Centre of your Instrument, and so situate your square againe, that you may beholde bothe your station and the mountaine toppe without stirring of the square, only remouing the Index: in all the rest doe as is before al<g ref="char:EOLhyphen"/>ready sufficiently declared, beholde the Figure, there needeth no other Example. The last Chapiter well vnderstode, openeth this most plainly.</hi>
                      </p>
-                     <figure>
-                        <head>To measure the distance betvvene any tvvo markes that lie in one right line from your eye.</head>
-                     </figure>
+                     <p>
+                        <pb facs="tcp:11955:32"/>
+                        <figure>
+                           <head>To measure the distance betvvene any tvvo markes that lie in one right line from your eye.</head>
+                        </figure>
+                     </p>
                      <p>
                         <seg rend="decorInit">Y</seg>Ou may resolue this by the former, measuring howe farre ei<g ref="char:EOLhyphen"/>ther is Distant from your selfe, and then deducte the one from the other, Or thus an other waye, the side of your Geometricall square directed towardes them, departe Orthogonally (as is tofore declared) 100 or 200 paces as ye list, the more the better, then place your Instrument againe, turning the side towarde your first station, re<g ref="char:EOLhyphen"/>mouing the index to either of the markes, noting what partes at eyther
 <pb facs="tcp:11955:32"/>
@@ -884,10 +904,16 @@ the other, in as many portions as ye thinke mete, or rather in so many <gap reas
                         </gap>lared sufficiently before, for the placing and <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>onioyning of them, be<g ref="char:EOLhyphen"/>hold the Figures.</p>
-                     <figure/>
+                     <p>
+                        <pb facs="tcp:11955:36"/>
+                        <figure/>
+                     </p>
                      <p>
                         <hi>IKLH</hi> the square Geometricall, <hi>MN</hi> his index with sightes, <hi>GEFO Theodelitus, GF</hi> his <hi>Alhidada</hi> er index with sightes <hi>AB</hi> the line perpen<g ref="char:EOLhyphen"/>diculare from <hi>B</hi> dounward noted with 200 partes, equall to the diuisions of the scale, <hi>DRC</hi> the semicircle hauing on his Diameter two sightes fixed as was tofore declared. This is also to be noted, that the double scale is compound of two Geometricall squares, the one seruing for altitudes, the other for profundities. The square which the line perpendicular cut<g ref="char:EOLhyphen"/>teth when the Diameter is directed to any markes lying lower than your station, I call the scale of profundities, the other shall for distinction be na<g ref="char:EOLhyphen"/>med the scale of altitudes.</p>
-                     <figure/>
+                     <p>
+                        <pb facs="tcp:11955:37"/>
+                        <figure/>
+                     </p>
                      <p>THis semicircle ought so to be placed that the centre <hi>B</hi> hang directly o<g ref="char:EOLhyphen"/>uer the centre <hi>A</hi> and that the diameter <hi>DC</hi> with his sightes maye be moued vp and downe, and also sidewise whither you list, alwayes cary<g ref="char:EOLhyphen"/>ing <hi>GF</hi> about directly vnder it. You must also prepare a staffe pyked at the ende, to pitche on the ground with a flat plate on the toppe to set this instrument vpon. It is also requisite that within <hi>Theodelitus</hi> you haue a néedle or fly so rectified, that being brought to his due place the crosse dia<g ref="char:EOLhyphen"/>meters of the <hi>Planisphere</hi> may demonstrate the foure principall quarters of the Horizon, East, Weste, North and Southe: And this may you do by drawing a right line making an angle (with that one diameter of youre instrument representing the meridiane) equall to the variation of the co<g ref="char:cmbAbbrStroke">̄</g>
                         <g ref="char:EOLhyphen"/>passe in your region: which in England is 11 ¼ grades or néere therabout, and may be redely obserued in all places sundrie wayes. But thereof I mind not here to entreate, forasmuch as it appertayneth to <hi>Cosmographie,</hi> &amp; nauigatio<g ref="char:cmbAbbrStroke">̄</g>, wherof I haue co<g ref="char:cmbAbbrStroke">̄</g>piled a treatise by it self, touching y<hi rend="sup">e</hi> fabrica<g ref="char:EOLhyphen"/>tio<g ref="char:cmbAbbrStroke">̄</g> this may suffise. Nowe for y<hi rend="sup">e</hi> vse great héede must you take in pitching
 <pb facs="tcp:11955:37"/>
@@ -2145,7 +2171,26 @@ proportion of BC to DA, DI shall bee the side of the greatest square that may be
                      <div type="example">
                         <pb facs="tcp:11955:63"/>
                         <head>Example.</head>
-                        <figure/>
+                        <p>Considering of Solides called Prismata, there are two kindes, the one directe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> vpright, whose Paralelogrammes are Perpendiculare to their Base, the other <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>lique or declining, whose Paralelogrammes are obliquely situate on their bases. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>f either I minde to propound an example, although one rule suffise them bothe. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>dmit therfore <hi>ABCDEF</hi> a direct or vpright Triangular Prisma, hauing <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> three sides of his base <hi>ED</hi> 3, <hi>DC</hi> 4, <hi>EC</hi> 
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, his altitude <hi>AD</hi> 10, so that by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> rules geuen in Planimetra I finde the Area of either Triangle or base 6, the Paralelogrammes <hi>AFED</hi> 30, <hi>ABCD</hi> 40 <hi>FBCE</hi> 50, all these ioyned toge<g ref="char:EOLhyphen"/>ther,
+<figure/>
+make 132, the Superficies of that Prisma. Likewise for the superficies of the declining solide <hi>IKLMNO,</hi> by the preceptes geue<g ref="char:cmbAbbrStroke">̄</g> in Planimetra I finde the Area of the right angled Paralelogrammes or bases either of them 18, the Area of the other Pa<g ref="char:EOLhyphen"/>ralelogrammes <hi>IGNO</hi> 39, <hi>IGLK</hi> 72, <hi>KLMP</hi> 39, <hi>OPNM</hi> 72. and these ioyned <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>gether yeldeth 258, that is the content superficiall therof.</p>
                         <p>For the Crassitude I search the altitude of either Solide, which in the vpright Prisma is, the ereared side of any of his Paralelogrammes, as <hi>AD, BC,</hi> or <hi>FE.</hi> 
                            <gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
@@ -2965,7 +3010,31 @@ in <hi>F,</hi> from thence extende right lines to <hi>AB,</hi> This done, diuide
                   <div type="example">
                      <pb facs="tcp:11955:80"/>
                      <head>Example.</head>
-                     <figure/>
+                     <p>
+                        <figure/>
+The side geuen AB 6, the square therof diuided by 3 produceth 12, the rote therof being √<expan>
+                           <am>
+                              <g ref="char:powerof2"/>
+                           </am>
+                           <ex>powerof2</ex>
+                        </expan>12, is the Semi<g ref="char:EOLhyphen"/>diameter DC, vvhose half √<expan>
+                           <am>
+                              <g ref="char:powerof2"/>
+                           </am>
+                           <ex>powerof2</ex>
+                        </expan>3 is the Semidimetient DE, vvhich multipli<g ref="char:EOLhyphen"/>ed in 18 the triangles Perimetry pro<g ref="char:EOLhyphen"/>duceth √<expan>
+                           <am>
+                              <g ref="char:powerof2"/>
+                           </am>
+                           <ex>powerof2</ex>
+                        </expan>972, vvhose medietie be<g ref="char:EOLhyphen"/>ing √<expan>
+                           <am>
+                              <g ref="char:powerof2"/>
+                           </am>
+                           <ex>powerof2</ex>
+                        </expan>243 is the quantitie Superfi<g ref="char:EOLhyphen"/>ciall or Area of the Triangle ABC. The Semidiameter of the contained circle is also thus found, fro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> the Se<g ref="char:EOLhyphen"/>miperimetry of the triangle deducte euery side, noting euerye difference seuerally, then multiplye these diffe<g ref="char:EOLhyphen"/>rences together, the Zenzicubike roote of the product is your desire.</p>
                      <p>
                         <hi>The side geuen AB 6.</hi>
                      </p>
